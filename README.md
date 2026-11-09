@@ -34,7 +34,7 @@ Puts your own readouts on the windshield HUD: gear, shift lights, boost, oil, co
 ## Install
 
 1. Install **cluster-render** first. Both apps draw through it. It comes from the `robertnisipeanu/idrive-apps` Store source.
-2. In the Store, go to **Settings, Add source**, enter **`bimmer-lab/apps`**, and install the apps you want.
+2. In the Store, go to **Settings, Add source**, enter **`tomasztomach/apps`**, and install the apps you want.
 3. Open the app from the apps menu on the center screen to pick a theme or layout.
 
 The Store builds each app on the car from this repo. No BMW code is in it. Both apps are tested on a 2020 X3 M40i; each app's page says what has been checked on the car and what is still open. Version history is in [CHANGELOG.md](CHANGELOG.md).

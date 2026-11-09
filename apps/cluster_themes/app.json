@@ -1,7 +1,7 @@
 {
   "id": "cluster_themes",
   "title": "Cluster Themes",
-  "description": "Redraws the instrument cluster: GT3 race dash, M-style, Sport, Minimal, Roadster, Track, Drag, Rally, Retro 80s, Cruise or Dyno (BMW-coloured readout tiles), with shift lights, boost, temps, tyres, a G-meter and a 0-60 timer",
+  "description": "Redraws the instrument cluster: GT3 race dash, M840i OEM 7000-style, Sport, Minimal, Roadster, Track, Drag, Rally, Retro 80s, Cruise or Dyno (BMW-coloured readout tiles), with shift lights, boost, temps, tyres, a G-meter and a 0-60 timer",
   "version": "0.13.0",
   "vendor": "custom",
   "loggingId": "OAC1",
@@ -108,7 +108,7 @@
         ],
         [
           "m",
-          "M"
+          "M840i OEM 7000"
         ],
         [
           "sport",
@@ -178,7 +178,7 @@
         ],
         [
           "m",
-          "M"
+          "M840i OEM 7000"
         ],
         [
           "sport",
@@ -234,7 +234,7 @@
         ],
         [
           "m",
-          "M"
+          "M840i OEM 7000"
         ],
         [
           "sport",
@@ -290,7 +290,7 @@
         ],
         [
           "m",
-          "M"
+          "M840i OEM 7000"
         ],
         [
           "sport",
@@ -340,7 +340,7 @@
       "key": "units",
       "label": "Units",
       "type": "choice",
-      "default": "us",
+      "default": "metric",
       "options": [
         [
           "us",
@@ -356,7 +356,7 @@
       "key": "clock",
       "label": "Clock",
       "type": "choice",
-      "default": "12h",
+      "default": "24h",
       "options": [
         [
           "12h",
